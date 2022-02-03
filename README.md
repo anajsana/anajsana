@@ -1,6 +1,7 @@
 ### WHOAMI 👋
 
 - 🔭 OSPO PM at @todogroup | MSc in Data Science
+- 📈 Formerly at Bitergia 🦉
 - 🌱 Always learning `Python`, `Website Development` and `Japanese`.
 - 💬 Ask me about #DevRel, #OpenSource, #OSPO, #DataScience & #InnerSource
 - 😄 Pronouns: she/her
