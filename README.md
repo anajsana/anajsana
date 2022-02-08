@@ -7,7 +7,7 @@
 - 😄 Pronouns: she/her
 - 🧘‍♀️ Vegetarian & Yogi
 - 📝 [The DevRel Report](https://anajimenezsantamaria.gitlab.io/)
-- 📢 [Twitter](https://twitter.com/anajsana95) | [Dev.to](https://dev.to/anajsana95/dockerizing-your-first-web-app-with-python-and-flask-2fn2) | [LinkedIn](https://www.linkedin.com/in/ana-jim%C3%A9nez-santamar%C3%ADa/)
+- 📢 [Twitter](https://twitter.com/anajsana95) | [Dev.to](https://dev.to/anajsana95/dockerizing-your-first-web-app-with-python-and-flask-2fn2) | [LinkedIn](https://www.linkedin.com/in/ana-jim%C3%A9nez-santamar%C3%ADa/) | ana@todogroup.org
 
 ***
 
