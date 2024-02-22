@@ -2,7 +2,7 @@
 
 - 🔭 OSPO PM at @todogroup | MSc in Data Science
 - 📈 Formerly at Bitergia 🦉
-- 🌱 Always learning `Python`, `Website Development` `Digital Illustration` and `Japanese`.
+- 🌱 Always learning `Python`, `JavaScript`, `Website Development` `Digital Illustration` and `Japanese`.
 - 💬 Ask me about #DevRel, #OpenSource, #OSPO, #DataScience & #InnerSource
 - 😄 Pronouns: she/her
 - 📝 [The DevRel Report](https://anajimenezsantamaria.gitlab.io/)
