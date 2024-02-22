@@ -1,6 +1,6 @@
 ### WHOAMI 👋
 
-- 🔭 OSPO PM at @todogroup | MSc in Data Science
+- 👩‍💻 PM at Linux Foundation's @todogroup Project| MSc in Data Science (2019 - 2020) and Front-End Development (2023 - 2024)
 - 📈 Formerly at Bitergia 🦉
 - 🌱 Always learning `Python`, `JavaScript`, `Website Development` `Digital Illustration` and `Japanese`.
 - 💬 Ask me about #DevRel, #OpenSource, #OSPO, #DataScience & #InnerSource
