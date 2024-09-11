@@ -1,6 +1,6 @@
 ### WHOAMI 👋
 
-- 👩‍💻 Project Manager at Linux Foundation's @todogroup Project | MSc in Data Science (2019 - 2020) and Front-End Development (2023 - 2024)
+- 👩‍💻 Open Source Project Manager at Linux Foundation | MSc in Data Science (2019 - 2020) and Front-End Development (2023 - 2024)
 - 📈 Formerly at Bitergia 🦉 Software Development Analytics Firm 
 - 🌱 Always learning `Python`, `JavaScript`, `Website Development` `Digital Illustration` and `Japanese`.
 - 💬 Ask me about #DevRel, #OpenSource, #OSPO, #DataScience & #InnerSource
